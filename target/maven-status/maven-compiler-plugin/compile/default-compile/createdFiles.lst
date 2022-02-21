@@ -1,0 +1,4 @@
+com\hodbenor\project\calculatorclient\service\ClientKeepAliveThread.class
+com\hodbenor\project\calculatorclient\CalculatorClientApplication.class
+com\hodbenor\project\calculatorclient\service\ClientCalculatorThread.class
+com\hodbenor\project\calculatorclient\service\CalculatorClientManager.class
